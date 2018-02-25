@@ -1,9 +1,3 @@
-// Oracle APEX 5.0 Page Designer Pane-Swapper
-// www.oratronik.de 
-// 2015-07-10 by Filip van Vooren - v0.1
-//
-// Not for production use! For educational purposes only.
-//
 function pd_fix(){
     'use strict'
 
